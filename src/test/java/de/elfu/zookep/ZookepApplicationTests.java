@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ZookepApplicationTests {
 
 	@Test
-	void contextLoads() {
+	vvoid contextLoads() {
 	}
 
 }

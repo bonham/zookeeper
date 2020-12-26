@@ -5,3 +5,6 @@ after_success:
   - mvn coveralls:report
 before_install:
   - chmod +x mvnw
+notifications:
+  email:
+    - 2823246+bonham@users.noreply.github.com
